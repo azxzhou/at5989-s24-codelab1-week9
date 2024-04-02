@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Zork but I made it better
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+and by better I mean in Unity with scriptable objects!!!!!!!!!!!! wow!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
