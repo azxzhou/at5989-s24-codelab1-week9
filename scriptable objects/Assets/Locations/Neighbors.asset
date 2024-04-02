@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   locationName: Neighbors
   locationDesc: Stay off the grass.
-  north: {fileID: 0}
+  north: {fileID: 11400000, guid: 2ef6ffe93131a3a4aa9635bff851b0f5, type: 2}
   south: {fileID: 0}
   east: {fileID: 11400000, guid: 27b6d449418cab647aac4607223ac8a6, type: 2}
-  west: {fileID: 0}
+  west: {fileID: 11400000, guid: efa9e25d4758c2a42bf002609572edfe, type: 2}

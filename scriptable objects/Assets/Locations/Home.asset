@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Home
   m_EditorClassIdentifier: 
   locationName: Home
-  locationDesc: eepy time
+  locationDesc: Eepy time.
   north: {fileID: 11400000, guid: 00a1f38595707e243a83120675e3695f, type: 2}
   south: {fileID: 11400000, guid: 0b4ed0b81fb4f04479742fb324030536, type: 2}
-  east: {fileID: 0}
+  east: {fileID: 11400000, guid: 9e89198ad421b9b4d87353b33263efac, type: 2}
   west: {fileID: 11400000, guid: 733b920845ac0624886151de9e6bec5f, type: 2}

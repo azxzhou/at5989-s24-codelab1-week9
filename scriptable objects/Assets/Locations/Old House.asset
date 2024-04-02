@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c50cd7130ebad24eb0d01568220f54a, type: 3}
-  m_Name: The Woods
+  m_Name: Old House
   m_EditorClassIdentifier: 
-  locationName: The Woods
-  locationDesc: Trees.
-  north: {fileID: 11400000, guid: daf86e15bd7ee4940930449cc73c2b8c, type: 2}
-  south: {fileID: 11400000, guid: 2ef6ffe93131a3a4aa9635bff851b0f5, type: 2}
+  locationName: Old House
+  locationDesc: All boarded up.
+  north: {fileID: 11400000, guid: f94be6c2a10950b4c961a1b8e82d5e68, type: 2}
+  south: {fileID: 0}
   east: {fileID: 0}
-  west: {fileID: 0}
+  west: {fileID: 11400000, guid: b984f123323d1f148afcb0030a88b66e, type: 2}

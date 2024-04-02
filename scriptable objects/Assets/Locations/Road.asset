@@ -15,6 +15,6 @@ MonoBehaviour:
   locationName: Road
   locationDesc: Look before you cross.
   north: {fileID: 11400000, guid: 27b6d449418cab647aac4607223ac8a6, type: 2}
-  south: {fileID: 0}
-  east: {fileID: 0}
-  west: {fileID: 0}
+  south: {fileID: 11400000, guid: b984f123323d1f148afcb0030a88b66e, type: 2}
+  east: {fileID: 11400000, guid: f94be6c2a10950b4c961a1b8e82d5e68, type: 2}
+  west: {fileID: 11400000, guid: 81dd32bba36ebc545b70ad27a0fa4f14, type: 2}

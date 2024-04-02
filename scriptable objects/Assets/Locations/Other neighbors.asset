@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c50cd7130ebad24eb0d01568220f54a, type: 3}
+  m_Name: Other neighbors
+  m_EditorClassIdentifier: 
+  locationName: Other Neighbors
+  locationDesc: Don't know them either.
+  north: {fileID: 11400000, guid: 0b4ed0b81fb4f04479742fb324030536, type: 2}
+  south: {fileID: 11400000, guid: 3e70c8da358db514ca98988e129bc449, type: 2}
+  east: {fileID: 11400000, guid: df98fb2e11b3e424d88a85d9718a57e2, type: 2}
+  west: {fileID: 11400000, guid: 1ad4b11c974a7ac4d9979ea405067a32, type: 2}

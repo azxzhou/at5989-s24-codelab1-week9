@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1c50cd7130ebad24eb0d01568220f54a, type: 3}
-  m_Name: The Woods
+  m_Name: Intersection
   m_EditorClassIdentifier: 
-  locationName: The Woods
-  locationDesc: Trees.
-  north: {fileID: 11400000, guid: daf86e15bd7ee4940930449cc73c2b8c, type: 2}
-  south: {fileID: 11400000, guid: 2ef6ffe93131a3a4aa9635bff851b0f5, type: 2}
-  east: {fileID: 0}
+  locationName: Intersection
+  locationDesc: Careful here.
+  north: {fileID: 11400000, guid: efa9e25d4758c2a42bf002609572edfe, type: 2}
+  south: {fileID: 11400000, guid: 00ec97043cf85e042a9caf8968e99110, type: 2}
+  east: {fileID: 11400000, guid: 0b4ed0b81fb4f04479742fb324030536, type: 2}
   west: {fileID: 0}

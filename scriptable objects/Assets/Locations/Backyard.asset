@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   locationName: Backyard
   locationDesc: Worms in there.
-  north: {fileID: 11400000, guid: a6ca2667ffb894747907fb133df6c9ff, type: 2}
+  north: {fileID: 0}
   south: {fileID: 11400000, guid: 27b6d449418cab647aac4607223ac8a6, type: 2}
-  east: {fileID: 0}
-  west: {fileID: 0}
+  east: {fileID: 11400000, guid: 8d980bab308418443af5dbcd6d4be6d2, type: 2}
+  west: {fileID: 11400000, guid: 2ef6ffe93131a3a4aa9635bff851b0f5, type: 2}
